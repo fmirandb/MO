@@ -1,0 +1,6455 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "36",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "36",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.3993,
+       -48.99779
+      ],
+      [
+       -74.39955,
+       -48.90023
+      ],
+      [
+       -74.30988,
+       -48.89975
+      ],
+      [
+       -74.30853,
+       -48.99722
+      ],
+      [
+       -74.3993,
+       -48.99779
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "37",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "37",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.33992,
+       -49.04878
+      ],
+      [
+       -74.33851,
+       -49.15269
+      ],
+      [
+       -74.43022,
+       -49.1532
+      ],
+      [
+       -74.43144,
+       -49.0493
+      ],
+      [
+       -74.33992,
+       -49.04878
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "38",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "38",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.45974,
+       -49.58199
+      ],
+      [
+       -74.42991,
+       -49.63546
+      ],
+      [
+       -74.5392,
+       -49.69849
+      ],
+      [
+       -74.5627,
+       -49.62557
+      ],
+      [
+       -74.45974,
+       -49.58199
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "39",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "39",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.16427,
+       -50.06669
+      ],
+      [
+       -74.41859,
+       -50.16042
+      ],
+      [
+       -74.44997,
+       -50.01099
+      ],
+      [
+       -74.35266,
+       -49.93635
+      ],
+      [
+       -74.16427,
+       -50.06669
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "41",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "41",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.55855,
+       -51.29874
+      ],
+      [
+       -73.91517,
+       -51.30264
+      ],
+      [
+       -73.92086,
+       -51.06174
+      ],
+      [
+       -73.56602,
+       -51.05782
+      ],
+      [
+       -73.55855,
+       -51.29874
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "42",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "42",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.55855,
+       -51.29874
+      ],
+      [
+       -73.54783,
+       -51.63785
+      ],
+      [
+       -73.87031,
+       -51.61461
+      ],
+      [
+       -73.91517,
+       -51.30264
+      ],
+      [
+       -73.55855,
+       -51.29874
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "43 B",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "43 B",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.30112,
+       -52.02744
+      ],
+      [
+       -73.4146,
+       -52.06788
+      ],
+      [
+       -73.54961,
+       -51.9225
+      ],
+      [
+       -73.41741,
+       -51.90344
+      ],
+      [
+       -73.30112,
+       -52.02744
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "44",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "44",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.56477,
+       -51.59861
+      ],
+      [
+       -72.75057,
+       -51.73165
+      ],
+      [
+       -73.37701,
+       -51.52096
+      ],
+      [
+       -73.14162,
+       -51.40532
+      ],
+      [
+       -72.56477,
+       -51.59861
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "45",
+    "amen_SALFAN": 1.25,
+    "amen_SALPARA": 1.25,
+    "biomasa_acumulada": 52782.1202,
+    "biomasa_promedio_ACS": 7984.8291,
+    "cambio_precip_anual": 5.129,
+    "condicion_sanitaria": 0.07,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -0.567,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -0.394,
+    "edad_de_agua": "121-200",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": -0.043,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 1.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 4.0,
+    "ind_fan_SALFAN": 3.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": 7.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.055,
+    "riesgo_SALPARA": 0.05,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 2.5,
+    "Barrio": "45",
+    "id_barrio": "45"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.75057,
+       -51.73165
+      ],
+      [
+       -72.56477,
+       -51.59861
+      ],
+      [
+       -72.40086,
+       -51.8547
+      ],
+      [
+       -72.93895,
+       -51.83515
+      ],
+      [
+       -73.23415,
+       -51.93306
+      ],
+      [
+       -73.34856,
+       -51.57516
+      ],
+      [
+       -73.30595,
+       -51.5451
+      ],
+      [
+       -72.75057,
+       -51.73165
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "46",
+    "amen_SALFAN": 1.75,
+    "amen_SALPARA": 1.75,
+    "biomasa_acumulada": 32280.574,
+    "biomasa_promedio_ACS": 9214.678,
+    "cambio_precip_anual": 4.91,
+    "condicion_sanitaria": 1.7349,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.675,
+    "dominancia_s_salar": 47.6254,
+    "dias_sobre_25C": -1.004,
+    "edad_de_agua": "121-200",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 0.075,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 4.0,
+    "ind_fan_SALFAN": 3.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": 10.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.07,
+    "riesgo_SALPARA": 0.056,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 2.0,
+    "Barrio": "46",
+    "id_barrio": "46"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.40086,
+       -51.8547
+      ],
+      [
+       -72.46755,
+       -52.27318
+      ],
+      [
+       -72.69986,
+       -52.2779
+      ],
+      [
+       -72.745,
+       -52.00525
+      ],
+      [
+       -72.97985,
+       -52.00904
+      ],
+      [
+       -72.93895,
+       -51.83515
+      ],
+      [
+       -72.40086,
+       -51.8547
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "47 A",
+    "amen_SALFAN": 1.75,
+    "amen_SALPARA": 1.75,
+    "biomasa_acumulada": 21571.1496,
+    "biomasa_promedio_ACS": 3499.8133,
+    "cambio_precip_anual": 4.774,
+    "condicion_sanitaria": 0.8827,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.744,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -1.366,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 0.189,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": 3.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.035,
+    "riesgo_SALPARA": 0.0315,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 2.25,
+    "Barrio": "47 A",
+    "id_barrio": "47A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.69986,
+       -52.2779
+      ],
+      [
+       -73.00915,
+       -52.30832
+      ],
+      [
+       -72.93011,
+       -52.19254
+      ],
+      [
+       -72.91697,
+       -52.15163
+      ],
+      [
+       -72.71831,
+       -52.15547
+      ],
+      [
+       -72.69986,
+       -52.2779
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "48",
+    "amen_SALFAN": 1.75,
+    "amen_SALPARA": 1.75,
+    "biomasa_acumulada": 67737.5634,
+    "biomasa_promedio_ACS": 10269.7701,
+    "cambio_precip_anual": 4.798,
+    "condicion_sanitaria": 1.1124,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.244,
+    "dominancia_s_salar": 89.094,
+    "dias_sobre_25C": -1.224,
+    "edad_de_agua": "121-200",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 0.0,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 4.0,
+    "ind_fan_SALFAN": 1.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": 1.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.0945,
+    "riesgo_SALPARA": 0.105,
+    "sensi_SALFAN": 2.25,
+    "sensi_SALPARA": 2.5,
+    "Barrio": "48",
+    "id_barrio": "48"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.93011,
+       -52.19254
+      ],
+      [
+       -73.00915,
+       -52.30832
+      ],
+      [
+       -73.12566,
+       -52.27445
+      ],
+      [
+       -73.16864,
+       -52.15874
+      ],
+      [
+       -72.97985,
+       -52.00904
+      ],
+      [
+       -72.8796,
+       -52.00732
+      ],
+      [
+       -72.93011,
+       -52.19254
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "51",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "51",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.21412,
+       -52.67211
+      ],
+      [
+       -73.22481,
+       -52.88054
+      ],
+      [
+       -73.44469,
+       -52.97274
+      ],
+      [
+       -73.84007,
+       -52.85646
+      ],
+      [
+       -73.21412,
+       -52.67211
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "52",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 25531.9061,
+    "biomasa_promedio_ACS": 12765.9531,
+    "cambio_precip_anual": 4.996,
+    "condicion_sanitaria": 0.751,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -2.114,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -0.317,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 0.128,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": null,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.072,
+    "riesgo_SALPARA": 0.081,
+    "sensi_SALFAN": 2.0,
+    "sensi_SALPARA": 2.25,
+    "Barrio": "52",
+    "id_barrio": "52"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.62596,
+       -53.10878
+      ],
+      [
+       -73.51891,
+       -53.10742
+      ],
+      [
+       -73.40643,
+       -53.26624
+      ],
+      [
+       -73.55054,
+       -53.26807
+      ],
+      [
+       -73.62596,
+       -53.10878
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "53",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "53",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.72675,
+       -53.33792
+      ],
+      [
+       -73.15922,
+       -53.11877
+      ],
+      [
+       -72.94895,
+       -52.94878
+      ],
+      [
+       -72.61177,
+       -53.16404
+      ],
+      [
+       -72.72675,
+       -53.33792
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "54 B",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 19057.5504,
+    "biomasa_promedio_ACS": 3800.8937,
+    "cambio_precip_anual": 6.137,
+    "condicion_sanitaria": 0.0,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -0.464,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -1.191,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 0.058,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.02,
+    "riesgo_SALPARA": 0.024,
+    "sensi_SALFAN": 1.6667,
+    "sensi_SALPARA": 2.0,
+    "Barrio": "54 B",
+    "id_barrio": "54B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -71.33125,
+       -53.94604
+      ],
+      [
+       -71.2983,
+       -54.12318
+      ],
+      [
+       -71.44557,
+       -54.08758
+      ],
+      [
+       -71.48457,
+       -54.04176
+      ],
+      [
+       -71.45501,
+       -53.93933
+      ],
+      [
+       -71.33125,
+       -53.94604
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "55",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 24390.5131,
+    "biomasa_promedio_ACS": 2365.8716,
+    "cambio_precip_anual": 6.091,
+    "condicion_sanitaria": 0.0,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -0.404,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -1.306,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 0.043,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": 3.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.021,
+    "riesgo_SALPARA": 0.024,
+    "sensi_SALFAN": 1.75,
+    "sensi_SALPARA": 2.0,
+    "Barrio": "55",
+    "id_barrio": "55"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -71.33125,
+       -53.94604
+      ],
+      [
+       -71.09885,
+       -54.03557
+      ],
+      [
+       -71.29652,
+       -54.1328
+      ],
+      [
+       -71.33125,
+       -53.94604
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "56",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 42804.0442,
+    "biomasa_promedio_ACS": 3526.3112,
+    "cambio_precip_anual": 5.717,
+    "condicion_sanitaria": 0.0,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -1.186,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -0.929,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 0.039,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 1.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": 1.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.018,
+    "riesgo_SALPARA": 0.024,
+    "sensi_SALFAN": 1.5,
+    "sensi_SALPARA": 2.0,
+    "Barrio": "56",
+    "id_barrio": "56"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -71.09885,
+       -54.03557
+      ],
+      [
+       -71.06193,
+       -54.04975
+      ],
+      [
+       -71.04825,
+       -54.1448
+      ],
+      [
+       -71.27472,
+       -54.24938
+      ],
+      [
+       -71.29652,
+       -54.1328
+      ],
+      [
+       -71.09885,
+       -54.03557
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "57",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 34532.3273,
+    "biomasa_promedio_ACS": 8068.9435,
+    "cambio_precip_anual": 6.13,
+    "condicion_sanitaria": 0.0,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -0.554,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -1.101,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 0.0,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.04,
+    "riesgo_SALPARA": 0.048,
+    "sensi_SALFAN": 1.6667,
+    "sensi_SALPARA": 2.0,
+    "Barrio": "57",
+    "id_barrio": "57"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -71.50004,
+       -54.54662
+      ],
+      [
+       -71.69398,
+       -54.44257
+      ],
+      [
+       -71.50004,
+       -54.54662
+      ],
+      [
+       -71.70012,
+       -54.59514
+      ],
+      [
+       -72.02996,
+       -54.44706
+      ],
+      [
+       -71.75059,
+       -54.37971
+      ],
+      [
+       -71.69398,
+       -54.44257
+      ],
+      [
+       -71.50004,
+       -54.54662
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "58",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 12436.742,
+    "biomasa_promedio_ACS": 3621.557,
+    "cambio_precip_anual": 5.52,
+    "condicion_sanitaria": 0.0,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -0.567,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -0.716,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 0.011,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.02,
+    "riesgo_SALPARA": 0.024,
+    "sensi_SALFAN": 1.6667,
+    "sensi_SALPARA": 2.0,
+    "Barrio": "58",
+    "id_barrio": "58"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -71.75059,
+       -54.37971
+      ],
+      [
+       -71.63816,
+       -54.36553
+      ],
+      [
+       -71.59036,
+       -54.41993
+      ],
+      [
+       -71.37348,
+       -54.47871
+      ],
+      [
+       -71.50004,
+       -54.54662
+      ],
+      [
+       -71.69398,
+       -54.44257
+      ],
+      [
+       -71.75059,
+       -54.37971
+      ],
+      [
+       -71.63816,
+       -54.36553
+      ],
+      [
+       -71.75059,
+       -54.37971
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "59",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "59",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -71.313,
+       -54.3551
+      ],
+      [
+       -71.2909,
+       -54.43406
+      ],
+      [
+       -71.37348,
+       -54.47871
+      ],
+      [
+       -71.59036,
+       -54.41993
+      ],
+      [
+       -71.63816,
+       -54.36553
+      ],
+      [
+       -71.313,
+       -54.3551
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "60",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "60",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -71.313,
+       -54.3551
+      ],
+      [
+       -71.15556,
+       -54.42109
+      ],
+      [
+       -71.21167,
+       -54.47754
+      ],
+      [
+       -71.2909,
+       -54.43406
+      ],
+      [
+       -71.313,
+       -54.3551
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "61",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "61",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -67.21617,
+       -54.95672
+      ],
+      [
+       -67.51347,
+       -54.93883
+      ],
+      [
+       -67.51407,
+       -54.90218
+      ],
+      [
+       -67.2031,
+       -54.93054
+      ],
+      [
+       -67.21617,
+       -54.95672
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "62",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "62",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -67.21617,
+       -54.95672
+      ],
+      [
+       -67.2031,
+       -54.93054
+      ],
+      [
+       -67.04285,
+       -55.06637
+      ],
+      [
+       -67.08331,
+       -55.08056
+      ],
+      [
+       -67.21617,
+       -54.95672
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "47 B",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "47 B",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.87907,
+       -52.0083
+      ],
+      [
+       -72.74437,
+       -52.00513
+      ],
+      [
+       -72.72146,
+       -52.15413
+      ],
+      [
+       -72.91879,
+       -52.15225
+      ],
+      [
+       -72.87907,
+       -52.0083
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "49 A",
+    "amen_SALFAN": 1.0,
+    "amen_SALPARA": 1.0,
+    "biomasa_acumulada": 23104.769,
+    "biomasa_promedio_ACS": 7642.356,
+    "cambio_precip_anual": 14.961,
+    "condicion_sanitaria": 2.9,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": 3.999,
+    "dominancia_s_salar": 85.4301,
+    "dias_sobre_25C": -1.397,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": -0.902,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 1.0,
+    "ind_amen_sequia": 1.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": 11.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.048,
+    "riesgo_SALPARA": 0.04,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 2.5,
+    "Barrio": "49 A",
+    "id_barrio": "49A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.46229,
+       -52.49484
+      ],
+      [
+       -71.38658,
+       -52.46903
+      ],
+      [
+       -71.37632,
+       -52.61841
+      ],
+      [
+       -72.25616,
+       -52.61842
+      ],
+      [
+       -72.4017,
+       -52.62747
+      ],
+      [
+       -72.45493,
+       -52.65153
+      ],
+      [
+       -72.46229,
+       -52.49484
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "49 B",
+    "amen_SALFAN": 1.0,
+    "amen_SALPARA": 1.0,
+    "biomasa_acumulada": 12577.1556,
+    "biomasa_promedio_ACS": 3627.7217,
+    "cambio_precip_anual": 14.961,
+    "condicion_sanitaria": 0.096,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": 3.999,
+    "dominancia_s_salar": 0.0,
+    "dias_sobre_25C": -1.397,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": -0.902,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 1.0,
+    "ind_amen_sequia": 1.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 1.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": 12.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.024,
+    "riesgo_SALPARA": 0.01,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 1.25,
+    "Barrio": "49 B",
+    "id_barrio": "49B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.25491,
+       -52.61846
+      ],
+      [
+       -71.37764,
+       -52.61975
+      ],
+      [
+       -71.36085,
+       -52.82976
+      ],
+      [
+       -72.26518,
+       -52.73822
+      ],
+      [
+       -72.25491,
+       -52.61846
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "50 A",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 26246.2304,
+    "biomasa_promedio_ACS": 7030.8537,
+    "cambio_precip_anual": 6.733,
+    "condicion_sanitaria": 4.4,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -2.081,
+    "dominancia_s_salar": 83.7832,
+    "dias_sobre_25C": -1.291,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 0.154,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": null,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.064,
+    "riesgo_SALPARA": 0.06,
+    "sensi_SALFAN": 2.6667,
+    "sensi_SALPARA": 2.5,
+    "Barrio": "50 A",
+    "id_barrio": "50A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.48037,
+       -52.66488
+      ],
+      [
+       -72.39968,
+       -52.62561
+      ],
+      [
+       -72.25358,
+       -52.61973
+      ],
+      [
+       -72.367,
+       -52.72415
+      ],
+      [
+       -72.48037,
+       -52.66488
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "50 B",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 39684.7263,
+    "biomasa_promedio_ACS": 3813.2189,
+    "cambio_precip_anual": 6.733,
+    "condicion_sanitaria": 0.2258,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -2.081,
+    "dominancia_s_salar": 68.5777,
+    "dias_sobre_25C": -1.291,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 0.154,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": null,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.032,
+    "riesgo_SALPARA": 0.024,
+    "sensi_SALFAN": 2.6667,
+    "sensi_SALPARA": 2.0,
+    "Barrio": "50 B",
+    "id_barrio": "50B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.47942,
+       -52.66532
+      ],
+      [
+       -72.36775,
+       -52.72454
+      ],
+      [
+       -72.25405,
+       -52.62012
+      ],
+      [
+       -72.26399,
+       -52.73319
+      ],
+      [
+       -72.4967,
+       -52.96256
+      ],
+      [
+       -73.07651,
+       -52.81618
+      ],
+      [
+       -72.47942,
+       -52.66532
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "54 A",
+    "amen_SALFAN": 1.5,
+    "amen_SALPARA": 1.5,
+    "biomasa_acumulada": 25792.1756,
+    "biomasa_promedio_ACS": 2557.4611,
+    "cambio_precip_anual": 6.137,
+    "condicion_sanitaria": 0.0,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -0.464,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": -1.191,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 0.058,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 1.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 1.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": 2.0,
+    "region": 12.0,
+    "riesgo_SALFAN": 0.021,
+    "riesgo_SALPARA": 0.024,
+    "sensi_SALFAN": 1.75,
+    "sensi_SALPARA": 2.0,
+    "Barrio": "54 A",
+    "id_barrio": "54A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -71.57279,
+       -53.93467
+      ],
+      [
+       -71.45612,
+       -53.93931
+      ],
+      [
+       -71.4842,
+       -54.04177
+      ],
+      [
+       -71.57279,
+       -53.93467
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "43 A",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "43 A",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.67052,
+       -51.79203
+      ],
+      [
+       -73.55859,
+       -51.75274
+      ],
+      [
+       -73.41557,
+       -51.90351
+      ],
+      [
+       -73.54839,
+       -51.92433
+      ],
+      [
+       -73.67052,
+       -51.79203
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "18 A",
+    "amen_SALFAN": 3.75,
+    "amen_SALPARA": 3.75,
+    "biomasa_acumulada": 56834.8034,
+    "biomasa_promedio_ACS": 6340.5694,
+    "cambio_precip_anual": -6.104,
+    "condicion_sanitaria": 5.314,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -4.017,
+    "dominancia_s_salar": 85.1195,
+    "dias_sobre_25C": 13.058,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 3.786,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 22.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.165,
+    "riesgo_SALPARA": 0.18,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 3.0,
+    "Barrio": "18 A",
+    "id_barrio": "18A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.65834,
+       -43.85077
+      ],
+      [
+       -73.7998,
+       -44.00384
+      ],
+      [
+       -73.97493,
+       -44.021
+      ],
+      [
+       -74.36377,
+       -43.92087
+      ],
+      [
+       -73.97214,
+       -43.69077
+      ],
+      [
+       -73.65834,
+       -43.85077
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "18 B",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 46429.2265,
+    "biomasa_promedio_ACS": 6091.9681,
+    "cambio_precip_anual": -6.291,
+    "condicion_sanitaria": 4.9575,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -4.208,
+    "dominancia_s_salar": 82.3509,
+    "dias_sobre_25C": 10.509,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 3.048,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": 4.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.098,
+    "riesgo_SALPARA": 0.14,
+    "sensi_SALFAN": 1.75,
+    "sensi_SALPARA": 2.5,
+    "Barrio": "18 B",
+    "id_barrio": "18B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.53445,
+       -44.4707
+      ],
+      [
+       -73.7647,
+       -44.37622
+      ],
+      [
+       -73.62502,
+       -44.37458
+      ],
+      [
+       -73.68348,
+       -44.29025
+      ],
+      [
+       -73.58739,
+       -44.19359
+      ],
+      [
+       -73.70784,
+       -43.90587
+      ],
+      [
+       -73.65834,
+       -43.85077
+      ],
+      [
+       -73.40831,
+       -43.98197
+      ],
+      [
+       -73.45214,
+       -44.32282
+      ],
+      [
+       -73.53445,
+       -44.4707
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "18 C",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 150756.0646,
+    "biomasa_promedio_ACS": 20908.8384,
+    "cambio_precip_anual": -6.013,
+    "condicion_sanitaria": 23.2127,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.913,
+    "dominancia_s_salar": 85.7913,
+    "dias_sobre_25C": 11.614,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 3.442,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 5.0,
+    "prevalencia_FAN": 69.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.336,
+    "riesgo_SALPARA": 0.448,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 4.0,
+    "Barrio": "18 C",
+    "id_barrio": "18C"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.58739,
+       -44.19359
+      ],
+      [
+       -73.68348,
+       -44.29025
+      ],
+      [
+       -73.62502,
+       -44.37458
+      ],
+      [
+       -73.7647,
+       -44.37622
+      ],
+      [
+       -74.05528,
+       -44.23943
+      ],
+      [
+       -73.93082,
+       -44.09485
+      ],
+      [
+       -73.97493,
+       -44.021
+      ],
+      [
+       -73.7998,
+       -44.00384
+      ],
+      [
+       -73.70787,
+       -43.90436
+      ],
+      [
+       -73.58739,
+       -44.19359
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "18 D",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 126691.6586,
+    "biomasa_promedio_ACS": 7664.316,
+    "cambio_precip_anual": -5.834,
+    "condicion_sanitaria": 13.9726,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.81,
+    "dominancia_s_salar": 79.0985,
+    "dias_sobre_25C": 11.295,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 3.291,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 29.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.182,
+    "riesgo_SALPARA": 0.182,
+    "sensi_SALFAN": 3.25,
+    "sensi_SALPARA": 3.25,
+    "Barrio": "18 D",
+    "id_barrio": "18D"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.53445,
+       -44.4707
+      ],
+      [
+       -73.52449,
+       -44.58222
+      ],
+      [
+       -73.71328,
+       -44.51716
+      ],
+      [
+       -73.85701,
+       -44.47933
+      ],
+      [
+       -73.92983,
+       -44.54225
+      ],
+      [
+       -73.96202,
+       -44.45152
+      ],
+      [
+       -74.05528,
+       -44.23943
+      ],
+      [
+       -73.7647,
+       -44.37622
+      ],
+      [
+       -73.53445,
+       -44.4707
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "18 E",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "18 E",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.71328,
+       -44.51716
+      ],
+      [
+       -73.52449,
+       -44.58222
+      ],
+      [
+       -73.51665,
+       -44.66926
+      ],
+      [
+       -73.7738,
+       -44.6622
+      ],
+      [
+       -73.71328,
+       -44.51716
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "19 A",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 131293.5516,
+    "biomasa_promedio_ACS": 21846.9665,
+    "cambio_precip_anual": -5.543,
+    "condicion_sanitaria": 19.9795,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -2.824,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 13.169,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 3.309,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 14.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.336,
+    "riesgo_SALPARA": 0.392,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "19 A",
+    "id_barrio": "19A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.97493,
+       -44.021
+      ],
+      [
+       -74.14258,
+       -44.17564
+      ],
+      [
+       -74.11925,
+       -44.40345
+      ],
+      [
+       -74.245,
+       -44.36471
+      ],
+      [
+       -74.54086,
+       -44.37906
+      ],
+      [
+       -74.46943,
+       -44.09726
+      ],
+      [
+       -73.97493,
+       -44.021
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "19 B",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 61303.2303,
+    "biomasa_promedio_ACS": 4616.4633,
+    "cambio_precip_anual": -5.465,
+    "condicion_sanitaria": 7.5242,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -2.908,
+    "dominancia_s_salar": 71.9449,
+    "dias_sobre_25C": 12.625,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 3.276,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 3.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 6.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.07,
+    "riesgo_SALPARA": 0.077,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "19 B",
+    "id_barrio": "19B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.96202,
+       -44.45152
+      ],
+      [
+       -73.92983,
+       -44.54225
+      ],
+      [
+       -74.58312,
+       -44.46291
+      ],
+      [
+       -74.54086,
+       -44.37906
+      ],
+      [
+       -74.245,
+       -44.36471
+      ],
+      [
+       -73.96202,
+       -44.45152
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "19 C",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "19 C",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.97493,
+       -44.021
+      ],
+      [
+       -73.93082,
+       -44.09485
+      ],
+      [
+       -74.05528,
+       -44.23943
+      ],
+      [
+       -73.96202,
+       -44.45152
+      ],
+      [
+       -74.11925,
+       -44.40345
+      ],
+      [
+       -74.14258,
+       -44.17564
+      ],
+      [
+       -73.97493,
+       -44.021
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "21 A",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 108869.5644,
+    "biomasa_promedio_ACS": 13313.4654,
+    "cambio_precip_anual": -5.251,
+    "condicion_sanitaria": 10.2142,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.342,
+    "dominancia_s_salar": 89.2973,
+    "dias_sobre_25C": 11.695,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 3.098,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 3.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 6.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.231,
+    "riesgo_SALPARA": 0.294,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "21 A",
+    "id_barrio": "21A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.79065,
+       -44.91099
+      ],
+      [
+       -74.48975,
+       -45.00138
+      ],
+      [
+       -74.8422,
+       -44.68009
+      ],
+      [
+       -74.04632,
+       -44.62333
+      ],
+      [
+       -73.96715,
+       -44.80369
+      ],
+      [
+       -73.83644,
+       -44.80589
+      ],
+      [
+       -73.79065,
+       -44.91099
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "21 B",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 142764.0616,
+    "biomasa_promedio_ACS": 16547.6013,
+    "cambio_precip_anual": -5.641,
+    "condicion_sanitaria": 12.8042,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -4.072,
+    "dominancia_s_salar": 93.5969,
+    "dias_sobre_25C": 11.265,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 3.037,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 33.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.273,
+    "riesgo_SALPARA": 0.294,
+    "sensi_SALFAN": 3.25,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "21 B",
+    "id_barrio": "21B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.51665,
+       -44.66926
+      ],
+      [
+       -73.52784,
+       -44.87584
+      ],
+      [
+       -73.79065,
+       -44.91099
+      ],
+      [
+       -73.83644,
+       -44.80589
+      ],
+      [
+       -73.96715,
+       -44.80369
+      ],
+      [
+       -74.04632,
+       -44.62333
+      ],
+      [
+       -73.8244,
+       -44.6065
+      ],
+      [
+       -73.78329,
+       -44.68496
+      ],
+      [
+       -73.7738,
+       -44.6622
+      ],
+      [
+       -73.51665,
+       -44.66926
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "21 C",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 167939.0682,
+    "biomasa_promedio_ACS": 28821.3542,
+    "cambio_precip_anual": -5.294,
+    "condicion_sanitaria": 42.1344,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.537,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 11.265,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 2.971,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 3.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 5.0,
+    "prevalencia_FAN": 6.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.336,
+    "riesgo_SALPARA": 0.448,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 4.0,
+    "Barrio": "21 C",
+    "id_barrio": "21C"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.52784,
+       -44.87584
+      ],
+      [
+       -73.69561,
+       -45.09142
+      ],
+      [
+       -74.14891,
+       -45.04567
+      ],
+      [
+       -74.23453,
+       -45.07711
+      ],
+      [
+       -74.45999,
+       -45.03734
+      ],
+      [
+       -74.48975,
+       -45.00138
+      ],
+      [
+       -73.52784,
+       -44.87584
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "22 A",
+    "amen_SALFAN": 3.0,
+    "amen_SALPARA": 3.0,
+    "biomasa_acumulada": 75950.7838,
+    "biomasa_promedio_ACS": 5751.6735,
+    "cambio_precip_anual": -4.91,
+    "condicion_sanitaria": 12.0573,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.601,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 11.099,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 2.715,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 3.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.108,
+    "riesgo_SALPARA": 0.156,
+    "sensi_SALFAN": 2.25,
+    "sensi_SALPARA": 3.25,
+    "Barrio": "22 A",
+    "id_barrio": "22A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.06838,
+       -45.34111
+      ],
+      [
+       -74.21764,
+       -45.36383
+      ],
+      [
+       -74.22451,
+       -45.21499
+      ],
+      [
+       -74.42926,
+       -45.20213
+      ],
+      [
+       -74.45999,
+       -45.03734
+      ],
+      [
+       -74.23453,
+       -45.07711
+      ],
+      [
+       -74.14891,
+       -45.04567
+      ],
+      [
+       -74.09534,
+       -45.05123
+      ],
+      [
+       -74.06838,
+       -45.34111
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "22 B",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 53043.98,
+    "biomasa_promedio_ACS": 7581.3006,
+    "cambio_precip_anual": -5.208,
+    "condicion_sanitaria": 6.0024,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.506,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 10.566,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 2.65,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": null,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.112,
+    "riesgo_SALPARA": 0.168,
+    "sensi_SALFAN": 2.0,
+    "sensi_SALPARA": 3.0,
+    "Barrio": "22 B",
+    "id_barrio": "22B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.69561,
+       -45.09142
+      ],
+      [
+       -73.76717,
+       -45.30218
+      ],
+      [
+       -74.06838,
+       -45.34111
+      ],
+      [
+       -74.09541,
+       -45.05122
+      ],
+      [
+       -73.69561,
+       -45.09142
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "22 C",
+    "amen_SALFAN": 3.0,
+    "amen_SALPARA": 3.0,
+    "biomasa_acumulada": 28118.1803,
+    "biomasa_promedio_ACS": 3309.4647,
+    "cambio_precip_anual": -4.827,
+    "condicion_sanitaria": 4.1649,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.369,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 11.348,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 2.564,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 1.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": 1.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.042,
+    "riesgo_SALPARA": 0.066,
+    "sensi_SALFAN": 1.75,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "22 C",
+    "id_barrio": "22C"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.21764,
+       -45.36383
+      ],
+      [
+       -74.40418,
+       -45.39199
+      ],
+      [
+       -74.42926,
+       -45.20213
+      ],
+      [
+       -74.22451,
+       -45.21499
+      ],
+      [
+       -74.21764,
+       -45.36383
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "22 D",
+    "amen_SALFAN": 3.0,
+    "amen_SALPARA": 3.0,
+    "biomasa_acumulada": 127009.4828,
+    "biomasa_promedio_ACS": 10883.2778,
+    "cambio_precip_anual": -4.682,
+    "condicion_sanitaria": 11.552,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.916,
+    "dominancia_s_salar": 91.9655,
+    "dias_sobre_25C": 10.395,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 2.422,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 13.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.216,
+    "riesgo_SALPARA": 0.252,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "22 D",
+    "id_barrio": "22D"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.78646,
+       -45.40838
+      ],
+      [
+       -73.78307,
+       -45.45497
+      ],
+      [
+       -74.46594,
+       -45.61538
+      ],
+      [
+       -74.48372,
+       -45.55314
+      ],
+      [
+       -74.40418,
+       -45.39199
+      ],
+      [
+       -74.06838,
+       -45.34111
+      ],
+      [
+       -74.02135,
+       -45.40882
+      ],
+      [
+       -73.78646,
+       -45.40838
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "23 A",
+    "amen_SALFAN": 3.0,
+    "amen_SALPARA": 3.0,
+    "biomasa_acumulada": 107382.2618,
+    "biomasa_promedio_ACS": 7652.5671,
+    "cambio_precip_anual": -4.755,
+    "condicion_sanitaria": 7.781,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -4.77,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 9.402,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 2.419,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 2.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.12,
+    "riesgo_SALPARA": 0.156,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 3.25,
+    "Barrio": "23 A",
+    "id_barrio": "23A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.78307,
+       -45.45497
+      ],
+      [
+       -73.86391,
+       -45.59691
+      ],
+      [
+       -74.17818,
+       -45.61814
+      ],
+      [
+       -74.23972,
+       -45.56285
+      ],
+      [
+       -73.78307,
+       -45.45497
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "23 B",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "23 B",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.86391,
+       -45.59691
+      ],
+      [
+       -73.88271,
+       -45.7027
+      ],
+      [
+       -74.01351,
+       -45.87115
+      ],
+      [
+       -74.37565,
+       -45.93014
+      ],
+      [
+       -74.46594,
+       -45.61538
+      ],
+      [
+       -74.23972,
+       -45.56285
+      ],
+      [
+       -74.17818,
+       -45.61814
+      ],
+      [
+       -73.86391,
+       -45.59691
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "23 C",
+    "amen_SALFAN": 2.75,
+    "amen_SALPARA": 2.75,
+    "biomasa_acumulada": 111321.1138,
+    "biomasa_promedio_ACS": 8577.4614,
+    "cambio_precip_anual": -4.04,
+    "condicion_sanitaria": 9.4772,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -2.473,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 9.993,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 2.133,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 2.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 3.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.11,
+    "riesgo_SALPARA": 0.143,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 3.25,
+    "Barrio": "23 C",
+    "id_barrio": "23C"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.48372,
+       -45.55314
+      ],
+      [
+       -74.37565,
+       -45.93014
+      ],
+      [
+       -74.30363,
+       -45.97215
+      ],
+      [
+       -74.4043,
+       -46.07059
+      ],
+      [
+       -74.5185,
+       -46.06909
+      ],
+      [
+       -74.53502,
+       -45.95566
+      ],
+      [
+       -75.19214,
+       -46.05843
+      ],
+      [
+       -75.00424,
+       -45.60868
+      ],
+      [
+       -74.48372,
+       -45.55314
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "24",
+    "amen_SALFAN": 3.0,
+    "amen_SALPARA": 3.0,
+    "biomasa_acumulada": 82424.7366,
+    "biomasa_promedio_ACS": 10857.8763,
+    "cambio_precip_anual": -4.403,
+    "condicion_sanitaria": 10.0415,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -5.034,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 7.966,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 2.087,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 3.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": null,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.216,
+    "riesgo_SALPARA": 0.252,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "24",
+    "id_barrio": "24"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.65452,
+       -45.40795
+      ],
+      [
+       -73.77727,
+       -46.383
+      ],
+      [
+       -74.04436,
+       -46.23669
+      ],
+      [
+       -74.01351,
+       -45.87115
+      ],
+      [
+       -73.88271,
+       -45.7027
+      ],
+      [
+       -73.86391,
+       -45.59691
+      ],
+      [
+       -73.78307,
+       -45.45497
+      ],
+      [
+       -73.78646,
+       -45.40838
+      ],
+      [
+       -73.65452,
+       -45.40795
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "25 A",
+    "amen_SALFAN": 2.75,
+    "amen_SALPARA": 2.75,
+    "biomasa_acumulada": 87020.601,
+    "biomasa_promedio_ACS": 15391.4855,
+    "cambio_precip_anual": -4.383,
+    "condicion_sanitaria": 16.415,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -5.082,
+    "dominancia_s_salar": 93.6223,
+    "dias_sobre_25C": 7.182,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 1.621,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 3.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 5.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.231,
+    "riesgo_SALPARA": 0.264,
+    "sensi_SALFAN": 3.5,
+    "sensi_SALPARA": 4.0,
+    "Barrio": "25 A",
+    "id_barrio": "25A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.38949,
+       -46.24131
+      ],
+      [
+       -73.60911,
+       -46.21442
+      ],
+      [
+       -73.33295,
+       -45.93481
+      ],
+      [
+       -73.3063,
+       -45.99295
+      ],
+      [
+       -73.38949,
+       -46.24131
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "25 B",
+    "amen_SALFAN": 2.5,
+    "amen_SALPARA": 2.5,
+    "biomasa_acumulada": 99789.72,
+    "biomasa_promedio_ACS": 4858.4714,
+    "cambio_precip_anual": -4.124,
+    "condicion_sanitaria": 6.6702,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -4.942,
+    "dominancia_s_salar": 98.8599,
+    "dias_sobre_25C": 6.929,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 1.755,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 3.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 12.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.08,
+    "riesgo_SALPARA": 0.075,
+    "sensi_SALFAN": 4.0,
+    "sensi_SALPARA": 3.75,
+    "Barrio": "25 B",
+    "id_barrio": "25B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.38949,
+       -46.24131
+      ],
+      [
+       -73.42624,
+       -46.35017
+      ],
+      [
+       -73.77727,
+       -46.383
+      ],
+      [
+       -73.60911,
+       -46.21442
+      ],
+      [
+       -73.38949,
+       -46.24131
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "26 A",
+    "amen_SALFAN": 2.75,
+    "amen_SALPARA": 2.75,
+    "biomasa_acumulada": 30932.0611,
+    "biomasa_promedio_ACS": 2908.2971,
+    "cambio_precip_anual": -4.359,
+    "condicion_sanitaria": 3.0682,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -5.324,
+    "dominancia_s_salar": 69.6164,
+    "dias_sobre_25C": 7.18,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 1.777,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 2.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 3.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": 5.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.055,
+    "riesgo_SALPARA": 0.0605,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "26 A",
+    "id_barrio": "26A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.51608,
+       -45.85098
+      ],
+      [
+       -73.57869,
+       -46.18386
+      ],
+      [
+       -73.77727,
+       -46.383
+      ],
+      [
+       -73.69274,
+       -45.71506
+      ],
+      [
+       -73.56528,
+       -45.77545
+      ],
+      [
+       -73.51608,
+       -45.85098
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "26 B",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 60970.5944,
+    "biomasa_promedio_ACS": 8691.0432,
+    "cambio_precip_anual": -5.102,
+    "condicion_sanitaria": 8.7674,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -5.276,
+    "dominancia_s_salar": 74.1611,
+    "dias_sobre_25C": 7.987,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 2.173,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 3.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 2.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.154,
+    "riesgo_SALPARA": 0.182,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 3.25,
+    "Barrio": "26 B",
+    "id_barrio": "26B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.28162,
+       -45.41942
+      ],
+      [
+       -73.56528,
+       -45.77545
+      ],
+      [
+       -73.69274,
+       -45.71506
+      ],
+      [
+       -73.64726,
+       -45.34865
+      ],
+      [
+       -73.28162,
+       -45.41942
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "27",
+    "amen_SALFAN": 3.25,
+    "amen_SALPARA": 3.25,
+    "biomasa_acumulada": 42978.4467,
+    "biomasa_promedio_ACS": 6301.054,
+    "cambio_precip_anual": -5.056,
+    "condicion_sanitaria": 5.1,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -4.458,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 8.494,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 1.973,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 11.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.195,
+    "riesgo_SALPARA": 0.182,
+    "sensi_SALFAN": 3.75,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "27",
+    "id_barrio": "27"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.51608,
+       -45.85098
+      ],
+      [
+       -73.56528,
+       -45.77545
+      ],
+      [
+       -73.22928,
+       -45.53385
+      ],
+      [
+       -73.09599,
+       -45.65997
+      ],
+      [
+       -73.51608,
+       -45.85098
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "28 A",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 128189.3325,
+    "biomasa_promedio_ACS": 15744.3134,
+    "cambio_precip_anual": -5.386,
+    "condicion_sanitaria": 8.5155,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -4.464,
+    "dominancia_s_salar": 59.5587,
+    "dias_sobre_25C": 9.475,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 2.628,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 14.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.315,
+    "riesgo_SALPARA": 0.294,
+    "sensi_SALFAN": 3.75,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "28 A",
+    "id_barrio": "28A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.29396,
+       -45.32154
+      ],
+      [
+       -73.38689,
+       -45.37733
+      ],
+      [
+       -73.37845,
+       -45.40081
+      ],
+      [
+       -73.64673,
+       -45.34881
+      ],
+      [
+       -73.63962,
+       -45.28539
+      ],
+      [
+       -73.30399,
+       -45.24143
+      ],
+      [
+       -73.29396,
+       -45.32154
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "28 B",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 241430.4742,
+    "biomasa_promedio_ACS": 19142.8923,
+    "cambio_precip_anual": -5.505,
+    "condicion_sanitaria": 11.1425,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -3.908,
+    "dominancia_s_salar": 45.7068,
+    "dias_sobre_25C": 10.351,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 2.727,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 15.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.336,
+    "riesgo_SALPARA": 0.336,
+    "sensi_SALFAN": 4.0,
+    "sensi_SALPARA": 4.0,
+    "Barrio": "28 B",
+    "id_barrio": "28B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.28162,
+       -45.41942
+      ],
+      [
+       -73.304,
+       -45.24156
+      ],
+      [
+       -73.14953,
+       -45.22112
+      ],
+      [
+       -72.82255,
+       -45.36682
+      ],
+      [
+       -72.70561,
+       -45.36643
+      ],
+      [
+       -72.69543,
+       -45.48801
+      ],
+      [
+       -72.91471,
+       -45.48946
+      ],
+      [
+       -73.28162,
+       -45.41942
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "28 C",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 6822.9389,
+    "biomasa_promedio_ACS": 2377.7864,
+    "cambio_precip_anual": -5.403,
+    "condicion_sanitaria": 0.7,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -5.252,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 8.778,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 1.987,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 2.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 1.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": null,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.0747,
+    "riesgo_SALPARA": 0.077,
+    "sensi_SALFAN": 2.6667,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "28 C",
+    "id_barrio": "28C"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.29396,
+       -45.32154
+      ],
+      [
+       -73.28162,
+       -45.41942
+      ],
+      [
+       -73.37845,
+       -45.40081
+      ],
+      [
+       -73.38689,
+       -45.37733
+      ],
+      [
+       -73.29396,
+       -45.32154
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "29",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 21491.2103,
+    "biomasa_promedio_ACS": 3218.2388,
+    "cambio_precip_anual": -5.061,
+    "condicion_sanitaria": 0.6819,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -4.213,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 9.785,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 2.494,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": 4.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.07,
+    "riesgo_SALPARA": 0.077,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "29",
+    "id_barrio": "29"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.65452,
+       -45.40795
+      ],
+      [
+       -74.02135,
+       -45.40882
+      ],
+      [
+       -74.06838,
+       -45.34111
+      ],
+      [
+       -73.63963,
+       -45.28553
+      ],
+      [
+       -73.65452,
+       -45.40795
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "30 A",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 83241.3311,
+    "biomasa_promedio_ACS": 8228.4302,
+    "cambio_precip_anual": -5.609,
+    "condicion_sanitaria": 1.8775,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -4.083,
+    "dominancia_s_salar": 84.526,
+    "dias_sobre_25C": 10.014,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 2.449,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": 5.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.154,
+    "riesgo_SALPARA": 0.182,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 3.25,
+    "Barrio": "30 A",
+    "id_barrio": "30A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.23345,
+       -44.96183
+      ],
+      [
+       -73.27586,
+       -45.23783
+      ],
+      [
+       -73.44106,
+       -45.25946
+      ],
+      [
+       -73.52784,
+       -44.87584
+      ],
+      [
+       -73.2972,
+       -44.92546
+      ],
+      [
+       -73.23345,
+       -44.96183
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "30 B",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 78371.6523,
+    "biomasa_promedio_ACS": 9348.111,
+    "cambio_precip_anual": -5.405,
+    "condicion_sanitaria": 10.4175,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -3.882,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 9.75,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 2.664,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 3.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.154,
+    "riesgo_SALPARA": 0.21,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 3.75,
+    "Barrio": "30 B",
+    "id_barrio": "30B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.52784,
+       -44.87584
+      ],
+      [
+       -73.44106,
+       -45.25946
+      ],
+      [
+       -73.76717,
+       -45.30218
+      ],
+      [
+       -73.69561,
+       -45.09142
+      ],
+      [
+       -73.52784,
+       -44.87584
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "31 A",
+    "amen_SALFAN": 3.5,
+    "amen_SALPARA": 3.5,
+    "biomasa_acumulada": 37235.2422,
+    "biomasa_promedio_ACS": 3374.1693,
+    "cambio_precip_anual": -6.026,
+    "condicion_sanitaria": 4.885,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -4.564,
+    "dominancia_s_salar": 66.0842,
+    "dias_sobre_25C": 10.135,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 2.465,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": 11.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.084,
+    "riesgo_SALPARA": 0.077,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "31 A",
+    "id_barrio": "31A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.16621,
+       -44.70768
+      ],
+      [
+       -73.11369,
+       -44.8355
+      ],
+      [
+       -73.2972,
+       -44.92546
+      ],
+      [
+       -73.42375,
+       -44.84458
+      ],
+      [
+       -73.47225,
+       -44.65169
+      ],
+      [
+       -73.16621,
+       -44.70768
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "31 B",
+    "amen_SALFAN": 3.75,
+    "amen_SALPARA": 3.75,
+    "biomasa_acumulada": 61992.0407,
+    "biomasa_promedio_ACS": 5210.0592,
+    "cambio_precip_anual": -6.298,
+    "condicion_sanitaria": 3.2196,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -5.113,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 10.344,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 2.599,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 2.0,
+    "prevalencia_FAN": 18.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.18,
+    "riesgo_SALPARA": 0.195,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 3.25,
+    "Barrio": "31 B",
+    "id_barrio": "31B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.12327,
+       -44.43658
+      ],
+      [
+       -73.10603,
+       -44.566
+      ],
+      [
+       -73.16621,
+       -44.70768
+      ],
+      [
+       -73.47225,
+       -44.65169
+      ],
+      [
+       -73.31261,
+       -44.27392
+      ],
+      [
+       -73.12327,
+       -44.43658
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "32",
+    "amen_SALFAN": 3.75,
+    "amen_SALPARA": 3.75,
+    "biomasa_acumulada": 259594.8114,
+    "biomasa_promedio_ACS": 27650.8788,
+    "cambio_precip_anual": -6.503,
+    "condicion_sanitaria": 20.1299,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -5.836,
+    "dominancia_s_salar": 78.0572,
+    "dias_sobre_25C": 10.37,
+    "edad_de_agua": ">200",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 3.284,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 5.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 5.0,
+    "prevalencia_FAN": 75.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.57,
+    "riesgo_SALPARA": 0.54,
+    "sensi_SALFAN": 4.75,
+    "sensi_SALPARA": 4.5,
+    "Barrio": "32",
+    "id_barrio": "32"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.23345,
+       -44.96183
+      ],
+      [
+       -73.2972,
+       -44.92546
+      ],
+      [
+       -73.11369,
+       -44.8355
+      ],
+      [
+       -72.95536,
+       -44.5568
+      ],
+      [
+       -72.73673,
+       -44.51978
+      ],
+      [
+       -72.57624,
+       -44.3109
+      ],
+      [
+       -72.52496,
+       -44.33469
+      ],
+      [
+       -72.53945,
+       -44.5284
+      ],
+      [
+       -72.6849,
+       -44.74069
+      ],
+      [
+       -73.13263,
+       -44.97608
+      ],
+      [
+       -73.23345,
+       -44.96183
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "35",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "35",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.20453,
+       -43.814
+      ],
+      [
+       -73.02347,
+       -43.71749
+      ],
+      [
+       -72.86755,
+       -43.76755
+      ],
+      [
+       -73.01193,
+       -43.86766
+      ],
+      [
+       -73.20453,
+       -43.814
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "20",
+    "amen_SALFAN": 3.75,
+    "amen_SALPARA": 3.75,
+    "biomasa_acumulada": 127036.0682,
+    "biomasa_promedio_ACS": 10197.1084,
+    "cambio_precip_anual": -5.372,
+    "condicion_sanitaria": 15.4425,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -3.111,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 12.011,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 3.129,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": null,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.24,
+    "riesgo_SALPARA": 0.315,
+    "sensi_SALFAN": 2.6667,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "20",
+    "id_barrio": "20"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.71328,
+       -44.51716
+      ],
+      [
+       -73.78329,
+       -44.68496
+      ],
+      [
+       -73.8244,
+       -44.6065
+      ],
+      [
+       -74.8422,
+       -44.68009
+      ],
+      [
+       -74.87699,
+       -44.51881
+      ],
+      [
+       -74.58312,
+       -44.46291
+      ],
+      [
+       -73.92983,
+       -44.54225
+      ],
+      [
+       -73.85701,
+       -44.47933
+      ],
+      [
+       -73.71328,
+       -44.51716
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "33",
+    "amen_SALFAN": 3.75,
+    "amen_SALPARA": 3.75,
+    "biomasa_acumulada": 169110.4192,
+    "biomasa_promedio_ACS": 18295.5899,
+    "cambio_precip_anual": -6.839,
+    "condicion_sanitaria": 25.2309,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -5.957,
+    "dominancia_s_salar": 79.189,
+    "dias_sobre_25C": 10.044,
+    "edad_de_agua": "121-200",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 2.913,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 4.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 5.0,
+    "prevalencia_FAN": 41.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.3825,
+    "riesgo_SALPARA": 0.3825,
+    "sensi_SALFAN": 4.25,
+    "sensi_SALPARA": 4.25,
+    "Barrio": "33",
+    "id_barrio": "33"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.06141,
+       -44.10296
+      ],
+      [
+       -72.65774,
+       -44.41724
+      ],
+      [
+       -72.73673,
+       -44.51978
+      ],
+      [
+       -73.12327,
+       -44.43658
+      ],
+      [
+       -73.31261,
+       -44.27392
+      ],
+      [
+       -73.31803,
+       -44.2385
+      ],
+      [
+       -73.19245,
+       -44.23565
+      ],
+      [
+       -73.24607,
+       -44.17694
+      ],
+      [
+       -73.06141,
+       -44.10296
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "34",
+    "amen_SALFAN": 3.75,
+    "amen_SALPARA": 3.75,
+    "biomasa_acumulada": 143605.9261,
+    "biomasa_promedio_ACS": 21399.4382,
+    "cambio_precip_anual": -6.879,
+    "condicion_sanitaria": 13.4248,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -5.084,
+    "dominancia_s_salar": 81.8538,
+    "dias_sobre_25C": 10.224,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 2.637,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 3.0,
+    "ind_amen_T25C": 4.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 17.0,
+    "region": 11.0,
+    "riesgo_SALFAN": 0.33,
+    "riesgo_SALPARA": 0.42,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "34",
+    "id_barrio": "34"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.20453,
+       -43.814
+      ],
+      [
+       -73.01171,
+       -43.86767
+      ],
+      [
+       -73.06141,
+       -44.10296
+      ],
+      [
+       -73.24607,
+       -44.17694
+      ],
+      [
+       -73.19245,
+       -44.23565
+      ],
+      [
+       -73.31803,
+       -44.2385
+      ],
+      [
+       -73.31756,
+       -43.90282
+      ],
+      [
+       -73.20453,
+       -43.814
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "1",
+    "amen_SALFAN": 5.0,
+    "amen_SALPARA": 5.0,
+    "biomasa_acumulada": 291298.0,
+    "biomasa_promedio_ACS": 33532.4602,
+    "cambio_precip_anual": -9.856,
+    "condicion_sanitaria": 9.687,
+    "dependencia_agua_dulce": " Sal < 20 ",
+    "dias_consecutivos_precip": -8.61,
+    "dominancia_s_salar": 1.5478,
+    "dias_sobre_25C": 16.493,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 5.0,
+    "expo_SALFAN": 5.0,
+    "frecuencia_sequias": 9.808,
+    "ind_aguadulce_SALPARA_SALFAN": 5.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 1.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 203.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.9,
+    "riesgo_SALPARA": 0.7,
+    "sensi_SALFAN": 4.5,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "1",
+    "id_barrio": "1"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.62733,
+       -41.74994
+      ],
+      [
+       -72.64859,
+       -41.69444
+      ],
+      [
+       -72.43586,
+       -41.64988
+      ],
+      [
+       -72.32866,
+       -41.35423
+      ],
+      [
+       -72.23343,
+       -41.39752
+      ],
+      [
+       -72.32785,
+       -41.73612
+      ],
+      [
+       -72.62733,
+       -41.74994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "2",
+    "amen_SALFAN": 5.0,
+    "amen_SALPARA": 5.0,
+    "biomasa_acumulada": 430435.9678,
+    "biomasa_promedio_ACS": 61330.0559,
+    "cambio_precip_anual": -9.889,
+    "condicion_sanitaria": 44.926,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -8.309,
+    "dominancia_s_salar": 60.3534,
+    "dias_sobre_25C": 15.583,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 5.0,
+    "expo_SALFAN": 5.0,
+    "frecuencia_sequias": 9.78,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 5.0,
+    "prevalencia_FAN": 224.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.8,
+    "riesgo_SALPARA": 0.85,
+    "sensi_SALFAN": 4.0,
+    "sensi_SALPARA": 4.25,
+    "Barrio": "2",
+    "id_barrio": "2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.62733,
+       -41.74994
+      ],
+      [
+       -72.80776,
+       -41.97105
+      ],
+      [
+       -73.00675,
+       -41.86614
+      ],
+      [
+       -73.14113,
+       -41.48448
+      ],
+      [
+       -72.79957,
+       -41.42653
+      ],
+      [
+       -72.58648,
+       -41.68146
+      ],
+      [
+       -72.62733,
+       -41.74994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "3 B",
+    "amen_SALFAN": 5.0,
+    "amen_SALPARA": 5.0,
+    "biomasa_acumulada": 142517.9887,
+    "biomasa_promedio_ACS": 13948.7702,
+    "cambio_precip_anual": -9.482,
+    "condicion_sanitaria": 13.0184,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -9.014,
+    "dominancia_s_salar": 54.3763,
+    "dias_sobre_25C": 14.878,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 9.669,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 20.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.39,
+    "riesgo_SALPARA": 0.45,
+    "sensi_SALFAN": 3.25,
+    "sensi_SALPARA": 3.75,
+    "Barrio": "3 B",
+    "id_barrio": "3B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.16054,
+       -41.79776
+      ],
+      [
+       -73.04568,
+       -41.89958
+      ],
+      [
+       -73.09609,
+       -41.94576
+      ],
+      [
+       -73.47758,
+       -41.79966
+      ],
+      [
+       -73.25239,
+       -41.70216
+      ],
+      [
+       -73.12886,
+       -41.76848
+      ],
+      [
+       -73.16054,
+       -41.79776
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "4",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "4",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.48253,
+       -41.5421
+      ],
+      [
+       -73.50878,
+       -41.66318
+      ],
+      [
+       -73.80076,
+       -41.63653
+      ],
+      [
+       -73.82908,
+       -41.53352
+      ],
+      [
+       -73.48253,
+       -41.5421
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "5",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "5",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.55799,
+       -41.77977
+      ],
+      [
+       -73.74282,
+       -41.91945
+      ],
+      [
+       -73.97333,
+       -41.86363
+      ],
+      [
+       -73.97386,
+       -41.7448
+      ],
+      [
+       -73.55799,
+       -41.77977
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "6",
+    "amen_SALFAN": 5.0,
+    "amen_SALPARA": 5.0,
+    "biomasa_acumulada": 63993.4733,
+    "biomasa_promedio_ACS": 43347.7289,
+    "cambio_precip_anual": -8.93,
+    "condicion_sanitaria": 0.894,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -8.272,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 15.089,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 5.0,
+    "expo_SALFAN": 5.0,
+    "frecuencia_sequias": 8.862,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": 35.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.6,
+    "riesgo_SALPARA": 0.6,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 3.0,
+    "Barrio": "6",
+    "id_barrio": "6"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.41239,
+       -42.09052
+      ],
+      [
+       -73.59734,
+       -41.94662
+      ],
+      [
+       -73.48154,
+       -41.79909
+      ],
+      [
+       -73.35704,
+       -41.84596
+      ],
+      [
+       -73.41239,
+       -42.09052
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "7",
+    "amen_SALFAN": 5.0,
+    "amen_SALPARA": 5.0,
+    "biomasa_acumulada": 118461.8615,
+    "biomasa_promedio_ACS": 18971.0877,
+    "cambio_precip_anual": -8.613,
+    "condicion_sanitaria": 7.0952,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -8.125,
+    "dominancia_s_salar": 38.6449,
+    "dias_sobre_25C": 15.288,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 8.803,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 50.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.39,
+    "riesgo_SALPARA": 0.36,
+    "sensi_SALFAN": 3.25,
+    "sensi_SALPARA": 3.0,
+    "Barrio": "7",
+    "id_barrio": "7"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.41239,
+       -42.09052
+      ],
+      [
+       -73.1949,
+       -42.13021
+      ],
+      [
+       -73.41878,
+       -42.27966
+      ],
+      [
+       -73.53571,
+       -42.12352
+      ],
+      [
+       -73.41239,
+       -42.09052
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "8",
+    "amen_SALFAN": 5.0,
+    "amen_SALPARA": 5.0,
+    "biomasa_acumulada": 174529.9574,
+    "biomasa_promedio_ACS": 17829.5182,
+    "cambio_precip_anual": -8.652,
+    "condicion_sanitaria": 11.1944,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -8.567,
+    "dominancia_s_salar": 40.0931,
+    "dias_sobre_25C": 14.78,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 8.173,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 3.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.3,
+    "riesgo_SALPARA": 0.42,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "8",
+    "id_barrio": "8"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.1949,
+       -42.13021
+      ],
+      [
+       -72.91183,
+       -42.17997
+      ],
+      [
+       -73.10651,
+       -42.42737
+      ],
+      [
+       -73.35326,
+       -42.33507
+      ],
+      [
+       -73.41878,
+       -42.27966
+      ],
+      [
+       -73.1949,
+       -42.13021
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "9 B",
+    "amen_SALFAN": 4.75,
+    "amen_SALPARA": 4.75,
+    "biomasa_acumulada": 98854.2732,
+    "biomasa_promedio_ACS": 15539.6631,
+    "cambio_precip_anual": -8.374,
+    "condicion_sanitaria": 15.7499,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -7.945,
+    "dominancia_s_salar": 70.6536,
+    "dias_sobre_25C": 14.539,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 7.842,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 21.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.3135,
+    "riesgo_SALPARA": 0.3705,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 3.25,
+    "Barrio": "9 B",
+    "id_barrio": "9B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.10651,
+       -42.42737
+      ],
+      [
+       -73.06144,
+       -42.52368
+      ],
+      [
+       -73.37203,
+       -42.52387
+      ],
+      [
+       -73.38649,
+       -42.41863
+      ],
+      [
+       -73.35111,
+       -42.33583
+      ],
+      [
+       -73.10651,
+       -42.42737
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "9 A",
+    "amen_SALFAN": 4.75,
+    "amen_SALPARA": 4.75,
+    "biomasa_acumulada": 207899.8254,
+    "biomasa_promedio_ACS": 20824.0372,
+    "cambio_precip_anual": -8.264,
+    "condicion_sanitaria": 12.1545,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -6.534,
+    "dominancia_s_salar": 67.8297,
+    "dias_sobre_25C": 15.721,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 8.333,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 12.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.456,
+    "riesgo_SALPARA": 0.57,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 3.75,
+    "Barrio": "9 A",
+    "id_barrio": "9A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.41878,
+       -42.27966
+      ],
+      [
+       -73.35163,
+       -42.33691
+      ],
+      [
+       -73.38689,
+       -42.41806
+      ],
+      [
+       -73.37203,
+       -42.52387
+      ],
+      [
+       -73.36614,
+       -42.56905
+      ],
+      [
+       -73.68983,
+       -42.36617
+      ],
+      [
+       -73.41878,
+       -42.27966
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "10 A",
+    "amen_SALFAN": 4.5,
+    "amen_SALPARA": 4.5,
+    "biomasa_acumulada": 276300.8228,
+    "biomasa_promedio_ACS": 28172.6905,
+    "cambio_precip_anual": -7.996,
+    "condicion_sanitaria": 19.8471,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -6.833,
+    "dominancia_s_salar": 75.6184,
+    "dias_sobre_25C": 15.703,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 8.118,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 4.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 25.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.54,
+    "riesgo_SALPARA": 0.54,
+    "sensi_SALFAN": 3.75,
+    "sensi_SALPARA": 3.75,
+    "Barrio": "10 A",
+    "id_barrio": "10A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.68983,
+       -42.36617
+      ],
+      [
+       -73.36614,
+       -42.56905
+      ],
+      [
+       -73.36137,
+       -42.6335
+      ],
+      [
+       -73.26122,
+       -42.70456
+      ],
+      [
+       -73.5633,
+       -42.704
+      ],
+      [
+       -73.59403,
+       -42.63192
+      ],
+      [
+       -73.88178,
+       -42.5349
+      ],
+      [
+       -73.68983,
+       -42.36617
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "11",
+    "amen_SALFAN": 4.5,
+    "amen_SALPARA": 4.5,
+    "biomasa_acumulada": 299215.6863,
+    "biomasa_promedio_ACS": 32653.3796,
+    "cambio_precip_anual": -7.761,
+    "condicion_sanitaria": 28.7332,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -8.068,
+    "dominancia_s_salar": 51.5929,
+    "dias_sobre_25C": 13.625,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 5.0,
+    "expo_SALFAN": 5.0,
+    "frecuencia_sequias": 6.964,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 5.0,
+    "prevalencia_FAN": 32.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.63,
+    "riesgo_SALPARA": 0.675,
+    "sensi_SALFAN": 3.5,
+    "sensi_SALPARA": 3.75,
+    "Barrio": "11",
+    "id_barrio": "11"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.37715,
+       -43.16595
+      ],
+      [
+       -73.67652,
+       -43.03501
+      ],
+      [
+       -73.78367,
+       -42.84106
+      ],
+      [
+       -73.65142,
+       -42.73786
+      ],
+      [
+       -73.19344,
+       -42.94948
+      ],
+      [
+       -73.37715,
+       -43.16595
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "12 A",
+    "amen_SALFAN": 4.25,
+    "amen_SALPARA": 4.25,
+    "biomasa_acumulada": 166627.4428,
+    "biomasa_promedio_ACS": 12896.9086,
+    "cambio_precip_anual": -7.434,
+    "condicion_sanitaria": 5.6189,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -6.814,
+    "dominancia_s_salar": 58.4787,
+    "dias_sobre_25C": 13.041,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 6.496,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 4.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 2.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 2.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.255,
+    "riesgo_SALPARA": 0.306,
+    "sensi_SALFAN": 2.5,
+    "sensi_SALPARA": 3.0,
+    "Barrio": "12 A",
+    "id_barrio": "12A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.67652,
+       -43.03501
+      ],
+      [
+       -73.37715,
+       -43.16595
+      ],
+      [
+       -73.5931,
+       -43.33711
+      ],
+      [
+       -73.85583,
+       -43.21127
+      ],
+      [
+       -73.67652,
+       -43.03501
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "12 B",
+    "amen_SALFAN": 4.0,
+    "amen_SALPARA": 4.0,
+    "biomasa_acumulada": 46830.5892,
+    "biomasa_promedio_ACS": 4417.3756,
+    "cambio_precip_anual": -7.022,
+    "condicion_sanitaria": 5.7,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -4.86,
+    "dominancia_s_salar": 82.9469,
+    "dias_sobre_25C": 13.268,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 6.266,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 3.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": null,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.0427,
+    "riesgo_SALPARA": 0.088,
+    "sensi_SALFAN": 1.3333,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "12 B",
+    "id_barrio": "12B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.85583,
+       -43.21127
+      ],
+      [
+       -73.5931,
+       -43.33711
+      ],
+      [
+       -73.7682,
+       -43.50751
+      ],
+      [
+       -73.91117,
+       -43.34469
+      ],
+      [
+       -73.85583,
+       -43.21127
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "12 C",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "12 C",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.91117,
+       -43.34469
+      ],
+      [
+       -73.7682,
+       -43.50751
+      ],
+      [
+       -74.28555,
+       -43.48882
+      ],
+      [
+       -74.39771,
+       -43.27023
+      ],
+      [
+       -73.91117,
+       -43.34469
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "13",
+    "amen_SALFAN": null,
+    "amen_SALPARA": null,
+    "biomasa_acumulada": null,
+    "biomasa_promedio_ACS": null,
+    "cambio_precip_anual": null,
+    "condicion_sanitaria": null,
+    "dependencia_agua_dulce": null,
+    "dias_consecutivos_precip": null,
+    "dominancia_s_salar": null,
+    "dias_sobre_25C": null,
+    "edad_de_agua": null,
+    "expo_SALPARA": null,
+    "expo_SALFAN": null,
+    "frecuencia_sequias": null,
+    "ind_aguadulce_SALPARA_SALFAN": null,
+    "ind_amen_cambio_precip": null,
+    "ind_amen_dia_precip": null,
+    "ind_amen_sequia": null,
+    "ind_amen_T25C": null,
+    "ind_biomasa_SALPARA_SALFAN": null,
+    "ind_edadagua_SALFAN": null,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": null,
+    "ind_sanitaria_SALPARA": null,
+    "prevalencia_FAN": null,
+    "region": null,
+    "riesgo_SALFAN": null,
+    "riesgo_SALPARA": null,
+    "sensi_SALFAN": null,
+    "sensi_SALPARA": null,
+    "Barrio": "13",
+    "id_barrio": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.75899,
+       -43.15398
+      ],
+      [
+       -73.06511,
+       -43.44497
+      ],
+      [
+       -73.15577,
+       -43.43184
+      ],
+      [
+       -72.91584,
+       -43.11679
+      ],
+      [
+       -72.75899,
+       -43.15398
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "15",
+    "amen_SALFAN": 4.75,
+    "amen_SALPARA": 4.75,
+    "biomasa_acumulada": 49207.8142,
+    "biomasa_promedio_ACS": 4441.7235,
+    "cambio_precip_anual": -8.359,
+    "condicion_sanitaria": 5.3559,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -7.973,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 13.302,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 1.0,
+    "expo_SALFAN": 1.0,
+    "frecuencia_sequias": 5.641,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 2.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": null,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": null,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.0507,
+    "riesgo_SALPARA": 0.1045,
+    "sensi_SALFAN": 1.3333,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "15",
+    "id_barrio": "15"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.87038,
+       -42.60101
+      ],
+      [
+       -72.88127,
+       -42.84896
+      ],
+      [
+       -73.19684,
+       -42.74243
+      ],
+      [
+       -73.01068,
+       -42.51519
+      ],
+      [
+       -72.87038,
+       -42.60101
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "14",
+    "amen_SALFAN": 4.75,
+    "amen_SALPARA": 4.75,
+    "biomasa_acumulada": 127776.9847,
+    "biomasa_promedio_ACS": 13262.9278,
+    "cambio_precip_anual": -8.306,
+    "condicion_sanitaria": 13.7333,
+    "dependencia_agua_dulce": "Sal >32",
+    "dias_consecutivos_precip": -9.047,
+    "dominancia_s_salar": 85.7928,
+    "dias_sobre_25C": 12.332,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 5.064,
+    "ind_aguadulce_SALPARA_SALFAN": 1.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 1.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 1.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.1995,
+    "riesgo_SALPARA": 0.399,
+    "sensi_SALFAN": 1.75,
+    "sensi_SALPARA": 3.5,
+    "Barrio": "14",
+    "id_barrio": "14"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.88127,
+       -42.84896
+      ],
+      [
+       -72.87038,
+       -42.60101
+      ],
+      [
+       -72.72558,
+       -42.69312
+      ],
+      [
+       -72.69086,
+       -43.10536
+      ],
+      [
+       -72.894,
+       -43.093
+      ],
+      [
+       -72.88127,
+       -42.84896
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "16",
+    "amen_SALFAN": 4.75,
+    "amen_SALPARA": 4.75,
+    "biomasa_acumulada": 138734.8826,
+    "biomasa_promedio_ACS": 15547.1985,
+    "cambio_precip_anual": -8.825,
+    "condicion_sanitaria": 15.7213,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -8.767,
+    "dominancia_s_salar": 83.4321,
+    "dias_sobre_25C": 13.347,
+    "edad_de_agua": "61-120",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 6.628,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 3.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 22.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.4275,
+    "riesgo_SALPARA": 0.456,
+    "sensi_SALFAN": 3.75,
+    "sensi_SALPARA": 4.0,
+    "Barrio": "16",
+    "id_barrio": "16"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.87038,
+       -42.60101
+      ],
+      [
+       -72.85672,
+       -42.24516
+      ],
+      [
+       -72.45088,
+       -42.57387
+      ],
+      [
+       -72.50228,
+       -42.60629
+      ],
+      [
+       -72.79095,
+       -42.51829
+      ],
+      [
+       -72.83808,
+       -42.62156
+      ],
+      [
+       -72.87038,
+       -42.60101
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "17 A",
+    "amen_SALFAN": 4.75,
+    "amen_SALPARA": 4.75,
+    "biomasa_acumulada": 216897.4869,
+    "biomasa_promedio_ACS": 21529.71,
+    "cambio_precip_anual": -9.164,
+    "condicion_sanitaria": 23.1218,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -8.638,
+    "dominancia_s_salar": 84.2259,
+    "dias_sobre_25C": 14.451,
+    "edad_de_agua": "121-200",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 7.989,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 4.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 5.0,
+    "prevalencia_FAN": 52.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.684,
+    "riesgo_SALPARA": 0.722,
+    "sensi_SALFAN": 4.5,
+    "sensi_SALPARA": 4.75,
+    "Barrio": "17 A",
+    "id_barrio": "17A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.85672,
+       -42.24516
+      ],
+      [
+       -72.62053,
+       -42.12842
+      ],
+      [
+       -72.23769,
+       -42.16085
+      ],
+      [
+       -72.40715,
+       -42.54242
+      ],
+      [
+       -72.62444,
+       -42.2378
+      ],
+      [
+       -72.78303,
+       -42.30517
+      ],
+      [
+       -72.85672,
+       -42.24516
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "17 B",
+    "amen_SALFAN": 5.0,
+    "amen_SALPARA": 5.0,
+    "biomasa_acumulada": 185955.5389,
+    "biomasa_promedio_ACS": 19546.7695,
+    "cambio_precip_anual": -9.474,
+    "condicion_sanitaria": 13.4421,
+    "dependencia_agua_dulce": "Sal >20 y <26",
+    "dias_consecutivos_precip": -8.825,
+    "dominancia_s_salar": 56.6864,
+    "dias_sobre_25C": 14.672,
+    "edad_de_agua": "121-200",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 8.779,
+    "ind_aguadulce_SALPARA_SALFAN": 4.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 4.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 3.0,
+    "ind_sanitaria_SALPARA": 4.0,
+    "prevalencia_FAN": 38.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.54,
+    "riesgo_SALPARA": 0.48,
+    "sensi_SALFAN": 4.5,
+    "sensi_SALPARA": 4.0,
+    "Barrio": "17 B",
+    "id_barrio": "17B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.62053,
+       -42.12842
+      ],
+      [
+       -72.80776,
+       -41.97105
+      ],
+      [
+       -72.42182,
+       -41.9506
+      ],
+      [
+       -72.4416,
+       -42.14161
+      ],
+      [
+       -72.62053,
+       -42.12842
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "3 A",
+    "amen_SALFAN": 5.0,
+    "amen_SALPARA": 5.0,
+    "biomasa_acumulada": 103605.7359,
+    "biomasa_promedio_ACS": 13418.4619,
+    "cambio_precip_anual": -9.668,
+    "condicion_sanitaria": 6.7012,
+    "dependencia_agua_dulce": "Sal>26 y <30",
+    "dias_consecutivos_precip": -8.803,
+    "dominancia_s_salar": 14.4188,
+    "dias_sobre_25C": 15.333,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 3.0,
+    "expo_SALFAN": 3.0,
+    "frecuencia_sequias": 9.65,
+    "ind_aguadulce_SALPARA_SALFAN": 3.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 5.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 5.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 1.0,
+    "ind_sanitaria_SALPARA": 3.0,
+    "prevalencia_FAN": 45.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.42,
+    "riesgo_SALPARA": 0.36,
+    "sensi_SALFAN": 3.5,
+    "sensi_SALPARA": 3.0,
+    "Barrio": "3 A",
+    "id_barrio": "3A"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.16054,
+       -41.79776
+      ],
+      [
+       -73.1272,
+       -41.76854
+      ],
+      [
+       -73.25303,
+       -41.70186
+      ],
+      [
+       -73.09034,
+       -41.63089
+      ],
+      [
+       -73.00573,
+       -41.86727
+      ],
+      [
+       -73.04529,
+       -41.89919
+      ],
+      [
+       -73.16054,
+       -41.79776
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "9 C",
+    "amen_SALFAN": 4.75,
+    "amen_SALPARA": 4.75,
+    "biomasa_acumulada": 75894.6923,
+    "biomasa_promedio_ACS": 5498.0019,
+    "cambio_precip_anual": -8.237,
+    "condicion_sanitaria": 4.4352,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -7.974,
+    "dominancia_s_salar": 100.0,
+    "dias_sobre_25C": 14.049,
+    "edad_de_agua": "0-30",
+    "expo_SALPARA": 2.0,
+    "expo_SALFAN": 2.0,
+    "frecuencia_sequias": 6.843,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 5.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 3.0,
+    "ind_edadagua_SALFAN": 1.0,
+    "ind_fan_SALFAN": 5.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 1.0,
+    "prevalencia_FAN": 62.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.209,
+    "riesgo_SALPARA": 0.209,
+    "sensi_SALFAN": 2.75,
+    "sensi_SALPARA": 2.75,
+    "Barrio": "9 C",
+    "id_barrio": "9C"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.3728,
+       -42.52439
+      ],
+      [
+       -73.06193,
+       -42.52338
+      ],
+      [
+       -73.26194,
+       -42.70316
+      ],
+      [
+       -73.36069,
+       -42.63215
+      ],
+      [
+       -73.3728,
+       -42.52439
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "arclim_id": "10 B",
+    "amen_SALFAN": 4.5,
+    "amen_SALPARA": 4.5,
+    "biomasa_acumulada": 148015.3983,
+    "biomasa_promedio_ACS": 21877.5053,
+    "cambio_precip_anual": -7.842,
+    "condicion_sanitaria": 22.2178,
+    "dependencia_agua_dulce": "Sal >30 y <32",
+    "dias_consecutivos_precip": -7.287,
+    "dominancia_s_salar": 89.7206,
+    "dias_sobre_25C": 15.707,
+    "edad_de_agua": "31-60",
+    "expo_SALPARA": 4.0,
+    "expo_SALFAN": 4.0,
+    "frecuencia_sequias": 7.731,
+    "ind_aguadulce_SALPARA_SALFAN": 2.0,
+    "ind_amen_cambio_precip": 4.0,
+    "ind_amen_dia_precip": 5.0,
+    "ind_amen_sequia": 4.0,
+    "ind_amen_T25C": 5.0,
+    "ind_biomasa_SALPARA_SALFAN": 4.0,
+    "ind_edadagua_SALFAN": 2.0,
+    "ind_fan_SALFAN": 4.0,
+    "ind_salmosalar_SALPARA": 5.0,
+    "ind_sanitaria_SALPARA": 5.0,
+    "prevalencia_FAN": 12.0,
+    "region": 10.0,
+    "riesgo_SALFAN": 0.432,
+    "riesgo_SALPARA": 0.576,
+    "sensi_SALFAN": 3.0,
+    "sensi_SALPARA": 4.0,
+    "Barrio": "10 B",
+    "id_barrio": "10B"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.88104,
+       -42.5348
+      ],
+      [
+       -73.59337,
+       -42.63195
+      ],
+      [
+       -73.5626,
+       -42.70458
+      ],
+      [
+       -73.26038,
+       -42.70404
+      ],
+      [
+       -73.41198,
+       -42.84766
+      ],
+      [
+       -73.65079,
+       -42.73829
+      ],
+      [
+       -73.88104,
+       -42.5348
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
